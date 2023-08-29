@@ -1,0 +1,16 @@
+program example2(input, output);
+var temp: real;
+var hold: integer;
+procedure lcd(b: integer);
+	procedure gcd(a: real);
+	begin
+	end;
+begin
+	if b=0 then lcd := temp
+	else call lcd(b, hold mod temp)
+end;
+
+begin
+	call read(x, y);
+	call write(x, y)
+end.

@@ -1,0 +1,13 @@
+program example(input, output, go);
+
+var y: array [ 8 .. 9 ] of integer
+var x: integer;
+
+
+
+procedure gcd(a, b: integer): integer;
+
+begin
+	if b = 03 then gcd := a
+	else gcd := gcd(b, a mod b)
+end.

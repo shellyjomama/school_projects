@@ -1,0 +1,11 @@
+program example(input, output);
+begin
+	if b = 0 then gcd := a
+	else gcd := gcd
+end
+
+begin
+ var x: integer;
+end.
+
+

@@ -1,0 +1,17 @@
+1.	program example2(input, output);
+2.	var temp: real;
+3.	var hold: integer;
+4.	procedure lcd(b: integer);
+5.		procedure gcd(a: real);
+6.		begin
+7.		end;
+8.	begin
+9.		if b=0 then lcd := temp
+10.		else call lcd(b, hold mod temp)
+11.	end;
+12.	
+13.	begin
+14.		call read(x, y);
+15.		call write(x, y)
+16.	end.
+	Success! Parsing complete
