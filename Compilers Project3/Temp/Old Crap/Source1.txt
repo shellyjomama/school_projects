@@ -1,0 +1,6 @@
+program example(input, output);
+
+begin
+	if b = 3 then gcd := a
+	else gcd := gcd(b, a mod b)
+end.

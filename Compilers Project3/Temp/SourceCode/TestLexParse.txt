@@ -1,0 +1,13 @@
+program example(inputlongname, output);
+var x integer;
+begin
+	if b = 0 then gcd := a
+	else gcd := gcd
+	if b <= 2 then a <> 0;
+end
+
+begin
+	begin 
+	read;
+	write
+end.

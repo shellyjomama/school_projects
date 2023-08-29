@@ -1,0 +1,23 @@
+program test (input, output);
+
+  var b : real;
+  var c : array [1..2] of integer;
+  var e : real;
+  var x : integer;
+
+  procedure proc1(x:integer; y:real; 
+                  z:array [1..2] of integer; q: real);
+    var d: integer;
+    begin
+      z[a] := 4;
+      c[3] := 3
+
+     end;
+
+begin
+  x := 3;
+  e := 4.5;
+  b := 4.5;
+  c[2] := 5
+
+end.

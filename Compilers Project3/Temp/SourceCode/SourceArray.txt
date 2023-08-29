@@ -1,0 +1,5 @@
+program example(input, output, go); 
+var x: real;
+var y: array 3..6] integer; 
+
+
