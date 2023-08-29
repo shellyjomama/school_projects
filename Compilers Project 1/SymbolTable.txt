@@ -1,0 +1,11 @@
+input	60	100
+output	60	100
+x	60	100
+y	60	100
+x	60	100
+y	60	100
+z	60	100
+z	60	100
+z	60	100
+warningnum	60	100
+warningnum	60	100

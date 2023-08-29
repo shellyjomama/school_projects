@@ -1,0 +1,22 @@
+1.	program verylongthing(input, output);
+	ID length exceeded
+2.	var x, y: integer;
+3.	x := 012;
+	Leading zero error
+4.	y := 12345678987
+	Integer too long
+5.	var z, z: real;
+6.	z := 283456.738987E997
+	xx too long, yy too long, zz too long
+7.	var warningnum: integer;
+8.	warningnum := 458.580999
+	yy too long
+9.	132435.984736E777
+	xx too long, yy too long, zz too long
+10.	075755
+	Leading zero error
+11.	@$$
+	Unrecognized string.
+	Unrecognized string.
+	Unrecognized string.
+12.	.

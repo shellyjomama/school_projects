@@ -1,0 +1,12 @@
+program verylongthing(input, output);
+var x, y: integer;
+x := 012;
+y := 12345678987
+var z, z: real;
+z := 283456.738987E997
+var warningnum: integer;
+warningnum := 458.580999
+132435.984736E777
+075755
+@$$
+.
